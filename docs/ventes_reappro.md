@@ -17,3 +17,6 @@ Pour effectuer un tracage personnalise via des triggers, voici comment Sage semb
 
 Quand une ligne de commande de vente est creee, chercher la ligne de commande d'achat directement precedente pour enregistrer le reappro
 Attention: cas des articles a gamme ou les reappro sont crees en premier, puis toutes les enumeres ensuite (double popup)
+
+### Popup indisponibilite de stock
+[Forum Topic](https://www.zoom-gestion.fr/phpBB2/commande-fournisseurs-automatique-t9256.html)
