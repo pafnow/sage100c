@@ -4,6 +4,7 @@ Quand un article est indisponible en stock, Sage affiche une popup d'indisponibi
 ### Tracabilite document de vente / achat
 Sage gere la tracabilite achat/vente des articles vendus en contremarque via la table F_CMLIEN.<br>
 Toutefois, la vente en contremarque oblige a ce que toute vente genere un achat correspondant lie les process de livraisons ensemble ([Documentation Contremarque](https://sage100.online-help.sage.fr/100cv2/wp-static-content/static-pages/fr_FR/gescom100/Menu_Traitement/Introduction_%C3%A0_la_fonction_Contremarque.htm)).
+
 Pour effectuer un tracage personnalise via des triggers, voici comment Sage semble fonctionner:
 - aucune difference notable sur les lignes d'une preparation de commande d'achat entre une ligne de reappro et une ligne entree manuellement
 - quand une ligne est entree manuellement via le formulaire Sage, un verrou est place
