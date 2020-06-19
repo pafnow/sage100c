@@ -14,3 +14,6 @@ Pour effectuer un tracage personnalise via des triggers, voici comment Sage semb
   - soit il est place par l'utilisateur lui-meme (preparation de commande ouverte separarement)<br>
   => Sage deverrouille et ferme la fenetre de preparation de commande
 - par consequent, regarder la table cbLock lors de l'ajout d'une ligne de preparation de commande d'achat permet de savoir si l'on est dans un reassort via la popup d'indisponibilite de stock ou dans une saisie manuelle
+
+Quand une ligne de commande de vente est creee, chercher la ligne de commande d'achat directement precedente pour enregistrer le reappro
+Attention: cas des articles a gamme ou les reappro sont crees en premier, puis toutes les enumeres ensuite (double popup)
