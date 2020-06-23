@@ -63,10 +63,10 @@ D_Coche40|Prix revient total||||||NA
 D_Coche41|Montant TTC
 D_Coche42|Collaborateur
 D_Coche43|Depot
-D_Coche44|<i>(impossible, toujours =2)</i>|NA
+D_Coche44|Emplacement|NA|NA||||NA|||NA
 D_Coche45|Affaire
-D_Coche46|<i>(impossible, toujours =2)</i>|NA
-D_Coche47|<i>(impossible, toujours =2)</i>|NA
+D_Coche46|Date peremption|NA|||||NA|||NA
+D_Coche47|Date fabrication|NA|||||NA|||NA
 D_Coche48|Base calcul marge
 D_Coche49|Marge en valeur
 D_Coche50|Marge en %
