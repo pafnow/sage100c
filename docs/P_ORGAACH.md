@@ -28,18 +28,18 @@ D_Coche05|Complement
 D_Coche06|Reference
 D_Coche07|Gamme 1
 D_Coche08|Gamme 2
-D_Coche09|Nº serie/lot|NA|||||NA|||NA
-D_Coche10|Complement serie/lot|NA|||||NA|||NA
+D_Coche09|Nº serie/lot|NA|NA|NA|||NA|||NA
+D_Coche10|Complement serie/lot|NA|NA|NA|||NA|||NA
 D_Coche11|P.U. HT
 D_Coche12|P.U. TTC
 D_Coche13|P.U. Devise
-D_Coche14|P.U. bon de commande|NA|NA|||NA|NA
+D_Coche14|P.U. bon de commande|NA|NA|NA|||NA|NA
 D_Coche15|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche16|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche17|Quantite
 D_Coche18|Qte colisee
 D_Coche19|Conditionnement
-D_Coche20|Qte commandee||NA|||NA|NA||NA|NA
+D_Coche20|Qte commandee|||NA||NA|NA||NA|NA
 D_Coche21|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche22|Qte livree|NA|NA||NA|NA|NA
 D_Coche23|Qte facturee|NA|NA|NA||||NA|NA|NA
@@ -51,22 +51,22 @@ D_Coche28|Remise
 D_Coche29|P.U. net
 D_Coche30|P.U. net TTC
 D_Coche31|P.U. net Devise
-D_Coche32|Prix revient unitaire||||||NA
-D_Coche33|<i>(unknown)</i>------|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche32|Prix revient unitaire
+D_Coche33|Frais
 D_Coche34|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche35|Montant HT
 D_Coche36|Montant HT Devise
 D_Coche37|Taxe 1
 D_Coche38|Taxe 2
 D_Coche39|Taxe 3
-D_Coche40|Prix revient total||||||NA
+D_Coche40|Prix revient total
 D_Coche41|Montant TTC
 D_Coche42|Collaborateur
 D_Coche43|Depot
-D_Coche44|Emplacement|NA|NA||||NA|||NA
+D_Coche44|Emplacement|NA|||||NA|||NA
 D_Coche45|Affaire
-D_Coche46|Date peremption|NA|||||NA|||NA
-D_Coche47|Date fabrication|NA|||||NA|||NA
+D_Coche46|Date peremption|NA|NA|NA|||NA|||NA
+D_Coche47|Date fabrication|NA|NA|NA|||NA|||NA
 D_Coche48|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche49|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche50|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
@@ -151,4 +151,4 @@ D_Coche128|Code taxe 2
 D_Coche129|Code taxe 3
 D_Coche130|Qte devis|NA||||NA|NA||NA|NA
 D_Coche131|Nº d'OF Gestion de production
-D_Coche132|<i>(unknown)</i>------|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche132|Nº d'operation
