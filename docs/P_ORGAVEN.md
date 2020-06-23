@@ -16,7 +16,7 @@ cbMarq|DocType|DO_Type
 10|???|???
 11|Facture comptabilisee|7
 
-### Signification des champs D_Coche*
+### Signification des champs D_Coche
 NA = Not Available, value = 2 in table
 Champ|Intitule|DE|BC|PL|BL|BR|BA|FA|FAR|FAA
 -----|--------|--|--|--|--|--|--|--|---|---
