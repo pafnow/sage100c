@@ -3,11 +3,11 @@ Disponible via Parametres societes / Personnalisation / Colonnage.
 
 Categorie|Sous-Categorie|Table
 ---------|--------------|-----
-Documents des ventes|(all)|[P_ORGAVEN](docs/P_ORGAVEN.md)
-Documents des achats|(all)|[P_ORGAACH](docs/P_ORGAACH.md)
-Documents des stocks|(all)|[P_ORGASTO](docs/P_ORGASTO.md)
+Documents des ventes|(all)|[P_ORGAVEN](P_ORGAVEN.md)
+Documents des achats|(all)|[P_ORGAACH](P_ORGAACH.md)
+Documents des stocks|(all)|[P_ORGASTO](P_ORGASTO.md)
 Documents internes|(all)|P_INTERNE
-Projets de fabrication|(all)|[P_PROJETFAB](docs/P_PROJETFAB.md)
+Projets de fabrication|(all)|[P_PROJETFAB](P_PROJETFAB.md)
 Projets d'affaire|(all)|P_PROJETAFF
 Facturation a l'affaire|(all)|P_FACTUREAFF
 Saisie d'avancement par projet||P_AVANCEMENT
