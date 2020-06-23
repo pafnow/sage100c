@@ -30,38 +30,38 @@ D_Coche07|AG_No1|Gamme 1
 D_Coche08|AG_No2|Gamme 2
 D_Coche09||Nº serie/lot|NA|||||NA|||NA
 D_Coche10||Complement serie/lot|NA|||||NA|||NA
-D_Coche11||P.U. HT
-D_Coche12||P.U. TTC
-D_Coche13||P.U. Devise
-D_Coche14||P.U. bon de commande|NA|NA|||NA|NA
-D_Coche15||Ressource
-D_Coche16||Qte ressource
-D_Coche17||Quantite
-D_Coche18||Qte colisee
-D_Coche19||Conditionnement
-D_Coche20||Qte commandee||NA|||NA|NA||NA|NA
+D_Coche11|DL_PrixUnitaire|P.U. HT
+D_Coche12|DL_PUTTC|P.U. TTC
+D_Coche13|DL_PUDevise|P.U. Devise
+D_Coche14|DL_PUBC|P.U. bon de commande|NA|NA|||NA|NA
+D_Coche15|RP_Code|Ressource
+D_Coche16|DL_QteRessource|Qte ressource
+D_Coche17|DL_Qte|Quantite
+D_Coche18|EU_Qte???|Qte colisee
+D_Coche19|EU_Enumere|Conditionnement
+D_Coche20|DL_QteBC|Qte commandee||NA|||NA|NA||NA|NA
 D_Coche21||Qte preparee|NA||NA||NA|NA||NA|NA
-D_Coche22||Qte livree|NA|NA||NA|NA|NA
-D_Coche23||Qte facturee|NA|NA|NA||||NA|NA|NA
+D_Coche22|DL_QteBL|Qte livree|NA|NA||NA|NA|NA
+D_Coche23|DL_QteBL|Qte facturee|NA|NA|NA||||NA|NA|NA
 D_Coche24||Reste a livrer|NA|NA|NA||NA|NA
-D_Coche25||Poids net global
-D_Coche26||Poids brut global
-D_Coche27||Date livraison/fabrication
-D_Coche28||Remise
-D_Coche29||P.U. net
-D_Coche30||P.U. net TTC
-D_Coche31||P.U. net Devise
-D_Coche32||Prix revient unitaire||||||NA
+D_Coche25|DL_PoidsNet|Poids net global
+D_Coche26|DL_PoidsBrut|Poids brut global
+D_Coche27|DO_DateLivr|Date livraison/fabrication
+D_Coche28|DL_Remise01REM_Valeur|Remise
+D_Coche29|<i>FNT_PrixUNet</i>|P.U. net
+D_Coche30|<i>FNT_PrixUNetTTC</i>|P.U. net TTC
+D_Coche31|<i>FNT_PrixUNetDevise</i>|P.U. net Devise
+D_Coche32|DL_PrixRU|Prix revient unitaire||||||NA
 D_Coche33||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
-D_Coche34||CMUP||||||NA
-D_Coche35||Montant HT
+D_Coche34|DL_CMUP|CMUP||||||NA
+D_Coche35|DL_MontantHT|Montant HT
 D_Coche36||Montant HT Devise
-D_Coche37||Taxe 1
-D_Coche38||Taxe 2
-D_Coche39||Taxe 3
+D_Coche37|DL_Taxe1|Taxe 1
+D_Coche38|DL_Taxe2|Taxe 2
+D_Coche39|DL_Taxe3|Taxe 3
 D_Coche40||Prix revient total||||||NA
-D_Coche41||Montant TTC
-D_Coche42||Collaborateur
+D_Coche41|DL_MontantTTC|Montant TTC
+D_Coche42|CO_No|Collaborateur
 D_Coche43||Depot
 D_Coche44||Emplacement|NA|NA||||NA|||NA
 D_Coche45||Affaire
@@ -71,7 +71,7 @@ D_Coche48||Base calcul marge
 D_Coche49||Marge en valeur
 D_Coche50||Marge en %
 D_Coche51||Nº client ligne|NA|NA|NA|NA|NA|NA
-D_Coche52||Nº colis|NA|NA
+D_Coche52|DL_NoColis|Nº colis|NA|NA
 D_Coche53||<i>(unknown, only for FAC)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche54||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche55||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
@@ -145,10 +145,10 @@ D_Coche122||Info libre 63
 D_Coche123||Info libre 64
 D_Coche124||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche125||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
-D_Coche126||Projet|NA|NA|NA||NA|NA||NA|NA
-D_Coche127||Code taxe 1
-D_Coche128||Code taxe 2
-D_Coche129||Code taxe 3
-D_Coche130||Qte devis|NA||||NA|NA||NA|NA
-D_Coche131||Nº d'OF Gestion de production
+D_Coche126|PF_Num|Projet|NA|NA|NA||NA|NA||NA|NA
+D_Coche127|DL_CodeTaxe1|Code taxe 1
+D_Coche128|DL_CodeTaxe2|Code taxe 2
+D_Coche129|DL_CodeTaxe3|Code taxe 3
+D_Coche130|DL_QteDE|Qte devis|NA||||NA|NA||NA|NA
+D_Coche131|DL_PieceOFProd|Nº d'OF Gestion de production
 D_Coche132||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
