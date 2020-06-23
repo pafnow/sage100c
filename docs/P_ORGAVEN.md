@@ -52,7 +52,7 @@ D_Coche29|<i>FNT_PrixUNet</i>|P.U. net
 D_Coche30|<i>FNT_PrixUNetTTC</i>|P.U. net TTC
 D_Coche31|<i>FNT_PrixUNetDevise</i>|P.U. net Devise
 D_Coche32|DL_PrixRU|Prix revient unitaire||||||NA
-D_Coche33||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche33|-|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche34|DL_CMUP|CMUP||||||NA
 D_Coche35|DL_MontantHT|Montant HT
 D_Coche36||Montant HT Devise
@@ -72,83 +72,83 @@ D_Coche49||Marge en valeur
 D_Coche50||Marge en %
 D_Coche51||Nº client ligne|NA|NA|NA|NA|NA|NA
 D_Coche52|DL_NoColis|Nº colis|NA|NA
-D_Coche53||<i>(unknown, only for FAC)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
-D_Coche54||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
-D_Coche55||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
-D_Coche56||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
-D_Coche57||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
-D_Coche58||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
-D_Coche59||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
-D_Coche60||Info libre 1 (Colisage)
-D_Coche61||Info libre 2 (Unite de colisage)
-D_Coche62||Info libre 3 (Commentaires)
-D_Coche63||Info libre 4
-D_Coche64||Info libre 5
-D_Coche65||Info libre 6
-D_Coche66||Info libre 7
-D_Coche67||Info libre 8
-D_Coche68||Info libre 9
-D_Coche69||Info libre 10
-D_Coche70||Info libre 11
-D_Coche71||Info libre 12
-D_Coche72||Info libre 13
-D_Coche73||Info libre 14
-D_Coche74||Info libre 15
-D_Coche75||Info libre 16
-D_Coche76||Info libre 17
-D_Coche77||Info libre 18
-D_Coche78||Info libre 19
-D_Coche79||Info libre 20
-D_Coche80||Info libre 21
-D_Coche81||Info libre 22
-D_Coche82||Info libre 23
-D_Coche83||Info libre 24
-D_Coche84||Info libre 25
-D_Coche85||Info libre 26
-D_Coche86||Info libre 27
-D_Coche87||Info libre 28
-D_Coche88||Info libre 29
-D_Coche89||Info libre 30
-D_Coche90||Info libre 31
-D_Coche91||Info libre 32
-D_Coche92||Info libre 33
-D_Coche93||Info libre 34
-D_Coche94||Info libre 35
-D_Coche95||Info libre 36
-D_Coche96||Info libre 37
-D_Coche97||Info libre 38
-D_Coche98||Info libre 39
-D_Coche99||Info libre 40
-D_Coche100||Info libre 41
-D_Coche101||Info libre 42
-D_Coche102||Info libre 43
-D_Coche103||Info libre 44
-D_Coche104||Info libre 45
-D_Coche105||Info libre 46
-D_Coche106||Info libre 47
-D_Coche107||Info libre 48
-D_Coche108||Info libre 49
-D_Coche109||Info libre 50
-D_Coche110||Info libre 51
-D_Coche111||Info libre 52
-D_Coche112||Info libre 53
-D_Coche113||Info libre 54
-D_Coche114||Info libre 55
-D_Coche115||Info libre 56
-D_Coche116||Info libre 57
-D_Coche117||Info libre 58
-D_Coche118||Info libre 59
-D_Coche119||Info libre 60
-D_Coche120||Info libre 61
-D_Coche121||Info libre 62
-D_Coche122||Info libre 63
-D_Coche123||Info libre 64
-D_Coche124||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
-D_Coche125||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche53|-|<i>(unknown, only for FAC)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche54|-|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche55|-|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche56|-|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche57|-|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche58|-|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche59|-|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche60|<i>(field name)</i>|Info libre 1 (Colisage)
+D_Coche61|<i>(field name)</i>|Info libre 2 (Unite de colisage)
+D_Coche62|<i>(field name)</i>|Info libre 3 (Commentaires)
+D_Coche63|<i>(field name)</i>|Info libre 4
+D_Coche64|<i>(field name)</i>|Info libre 5
+D_Coche65|<i>(field name)</i>|Info libre 6
+D_Coche66|<i>(field name)</i>|Info libre 7
+D_Coche67|<i>(field name)</i>|Info libre 8
+D_Coche68|<i>(field name)</i>|Info libre 9
+D_Coche69|<i>(field name)</i>|Info libre 10
+D_Coche70|<i>(field name)</i>|Info libre 11
+D_Coche71|<i>(field name)</i>|Info libre 12
+D_Coche72|<i>(field name)</i>|Info libre 13
+D_Coche73|<i>(field name)</i>|Info libre 14
+D_Coche74|<i>(field name)</i>|Info libre 15
+D_Coche75|<i>(field name)</i>|Info libre 16
+D_Coche76|<i>(field name)</i>|Info libre 17
+D_Coche77|<i>(field name)</i>|Info libre 18
+D_Coche78|<i>(field name)</i>|Info libre 19
+D_Coche79|<i>(field name)</i>|Info libre 20
+D_Coche80|<i>(field name)</i>|Info libre 21
+D_Coche81|<i>(field name)</i>|Info libre 22
+D_Coche82|<i>(field name)</i>|Info libre 23
+D_Coche83|<i>(field name)</i>|Info libre 24
+D_Coche84|<i>(field name)</i>|Info libre 25
+D_Coche85|<i>(field name)</i>|Info libre 26
+D_Coche86|<i>(field name)</i>|Info libre 27
+D_Coche87|<i>(field name)</i>|Info libre 28
+D_Coche88|<i>(field name)</i>|Info libre 29
+D_Coche89|<i>(field name)</i>|Info libre 30
+D_Coche90|<i>(field name)</i>|Info libre 31
+D_Coche91|<i>(field name)</i>|Info libre 32
+D_Coche92|<i>(field name)</i>|Info libre 33
+D_Coche93|<i>(field name)</i>|Info libre 34
+D_Coche94|<i>(field name)</i>|Info libre 35
+D_Coche95|<i>(field name)</i>|Info libre 36
+D_Coche96|<i>(field name)</i>|Info libre 37
+D_Coche97|<i>(field name)</i>|Info libre 38
+D_Coche98|<i>(field name)</i>|Info libre 39
+D_Coche99|<i>(field name)</i>|Info libre 40
+D_Coche100|<i>(field name)</i>|Info libre 41
+D_Coche101|<i>(field name)</i>|Info libre 42
+D_Coche102|<i>(field name)</i>|Info libre 43
+D_Coche103|<i>(field name)</i>|Info libre 44
+D_Coche104|<i>(field name)</i>|Info libre 45
+D_Coche105|<i>(field name)</i>|Info libre 46
+D_Coche106|<i>(field name)</i>|Info libre 47
+D_Coche107|<i>(field name)</i>|Info libre 48
+D_Coche108|<i>(field name)</i>|Info libre 49
+D_Coche109|<i>(field name)</i>|Info libre 50
+D_Coche110|<i>(field name)</i>|Info libre 51
+D_Coche111|<i>(field name)</i>|Info libre 52
+D_Coche112|<i>(field name)</i>|Info libre 53
+D_Coche113|<i>(field name)</i>|Info libre 54
+D_Coche114|<i>(field name)</i>|Info libre 55
+D_Coche115|<i>(field name)</i>|Info libre 56
+D_Coche116|<i>(field name)</i>|Info libre 57
+D_Coche117|<i>(field name)</i>|Info libre 58
+D_Coche118|<i>(field name)</i>|Info libre 59
+D_Coche119|<i>(field name)</i>|Info libre 60
+D_Coche120|<i>(field name)</i>|Info libre 61
+D_Coche121|<i>(field name)</i>|Info libre 62
+D_Coche122|<i>(field name)</i>|Info libre 63
+D_Coche123|<i>(field name)</i>|Info libre 64
+D_Coche124|-|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche125|-|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche126|PF_Num|Projet|NA|NA|NA||NA|NA||NA|NA
 D_Coche127|DL_CodeTaxe1|Code taxe 1
 D_Coche128|DL_CodeTaxe2|Code taxe 2
 D_Coche129|DL_CodeTaxe3|Code taxe 3
 D_Coche130|DL_QteDE|Qte devis|NA||||NA|NA||NA|NA
 D_Coche131|DL_PieceOFProd|Nº d'OF Gestion de production
-D_Coche132||<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche132|-|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
