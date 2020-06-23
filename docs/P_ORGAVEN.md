@@ -2,19 +2,19 @@
 Utilisee pour l'ordre des colonnes des documents des ventes, Fichier / Parametres societe / Colonnage / Documents des ventes.
 
 ### Signification des lignes
-cbMarq|DocType|DO_Type
-------|-------|-------
-1|Devis|0
-2|Bon de commande|1
-3|Preparation de livraison|2
-4|Bon de livraison|3
-5|Bon de retour|4
-6|Bon d'avoir financier|5
-7|Facture|6
-8|Facture de retour|6???
-9|Facture d'avoir|6???
-10|???|???
-11|Facture comptabilisee|7
+cbMarq|DocType|Abbreviation|DO_Type
+------|-------|------------|-------
+1|Devis|DE|0
+2|Bon de commande|BC|1
+3|Preparation de livraison|PL|2
+4|Bon de livraison|BL|3
+5|Bon de retour|BR|4
+6|Bon d'avoir financier|BA|5
+7|Facture|FA|6
+8|Facture de retour|FAR|6???
+9|Facture d'avoir|FAA|6???
+10|???||???
+11|Facture comptabilisee|FAC|7
 
 ### Signification des champs D_Coche
 NA = Not Available, value = 2 in table
