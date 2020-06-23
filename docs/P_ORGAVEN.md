@@ -72,7 +72,7 @@ D_Coche49|Marge en valeur
 D_Coche50|Marge en %
 D_Coche51|Nº client ligne|NA|NA|NA|NA|NA|NA
 D_Coche52|Nº colis|NA|NA
-D_Coche53|<i>(only for FAC)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche53|<i>(unknown, only for FAC)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche54|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche55|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche56|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
@@ -145,7 +145,7 @@ D_Coche122|
 D_Coche123|
 D_Coche124|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche125|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
-D_Coche126|<i>(impossible, toujours =2)</i>Projet|NA|NA|NA||NA|NA||NA|NA
+D_Coche126|Projet|NA|NA|NA||NA|NA||NA|NA
 D_Coche127|Code taxe 1
 D_Coche128|Code taxe 2
 D_Coche129|Code taxe 3
