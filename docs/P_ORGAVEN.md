@@ -70,15 +70,15 @@ D_Coche47|Date fabrication|NA|||||NA|||NA
 D_Coche48|Base calcul marge
 D_Coche49|Marge en valeur
 D_Coche50|Marge en %
-D_Coche51|<i>(impossible, toujours =2)</i>|NA
-D_Coche52|<i>(impossible, toujours =2)</i>|NA
-D_Coche53|<i>(impossible, toujours =2)</i>|NA
-D_Coche54|<i>(impossible, toujours =2)</i>|NA
-D_Coche55|<i>(impossible, toujours =2)</i>|NA
-D_Coche56|<i>(impossible, toujours =2)</i>|NA
-D_Coche57|<i>(impossible, toujours =2)</i>|NA
-D_Coche58|<i>(impossible, toujours =2)</i>|NA
-D_Coche59|<i>(impossible, toujours =2)</i>|NA
+D_Coche51|Nº client ligne|NA|NA|NA|NA|NA|NA
+D_Coche52|Nº colis|NA|NA
+D_Coche53|<i>(only for FAC)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche54|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche55|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche56|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche57|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche58|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche59|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche60|Colisage
 D_Coche61|Unite de colisage
 D_Coche62|Commentaires
@@ -143,12 +143,12 @@ D_Coche120|
 D_Coche121|
 D_Coche122|
 D_Coche123|
-D_Coche124|<i>(impossible, toujours =2)</i>|NA
-D_Coche125|<i>(impossible, toujours =2)</i>|NA
-D_Coche126|<i>(impossible, toujours =2)</i>|NA
+D_Coche124|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche125|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche126|<i>(impossible, toujours =2)</i>Projet|NA|NA|NA||NA|NA||NA|NA
 D_Coche127|Code taxe 1
 D_Coche128|Code taxe 2
 D_Coche129|Code taxe 3
-D_Coche130|Qte devis|NA
+D_Coche130|Qte devis|NA||||NA|NA||NA|NA
 D_Coche131|Nº d'OF Gestion de production
-D_Coche132|<i>(impossible, toujours =2)</i>|NA
+D_Coche132|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
