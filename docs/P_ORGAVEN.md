@@ -79,70 +79,70 @@ D_Coche56|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche57|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche58|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche59|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
-D_Coche60|Colisage
-D_Coche61|Unite de colisage
-D_Coche62|Commentaires
-D_Coche63|
-D_Coche64|
-D_Coche65|
-D_Coche66|
-D_Coche67|
-D_Coche68|
-D_Coche69|
-D_Coche70|
-D_Coche71|
-D_Coche72|
-D_Coche73|
-D_Coche74|
-D_Coche75|
-D_Coche76|
-D_Coche77|
-D_Coche78|
-D_Coche79|
-D_Coche80|
-D_Coche81|
-D_Coche82|
-D_Coche83|
-D_Coche84|
-D_Coche85|
-D_Coche86|
-D_Coche87|
-D_Coche88|
-D_Coche89|
-D_Coche90|
-D_Coche91|
-D_Coche92|
-D_Coche93|
-D_Coche94|
-D_Coche95|
-D_Coche96|
-D_Coche97|
-D_Coche98|
-D_Coche99|
-D_Coche100|
-D_Coche101|
-D_Coche102|
-D_Coche103|
-D_Coche104|
-D_Coche105|
-D_Coche106|
-D_Coche107|
-D_Coche108|
-D_Coche109|
-D_Coche110|
-D_Coche111|
-D_Coche112|
-D_Coche113|
-D_Coche114|
-D_Coche115|
-D_Coche116|
-D_Coche117|
-D_Coche118|
-D_Coche119|
-D_Coche120|
-D_Coche121|
-D_Coche122|
-D_Coche123|
+D_Coche60|Info libre 1 (Colisage)
+D_Coche61|Info libre 2 (Unite de colisage)
+D_Coche62|Info libre 3 (Commentaires)
+D_Coche63|Info libre 4
+D_Coche64|Info libre 5
+D_Coche65|Info libre 6
+D_Coche66|Info libre 7
+D_Coche67|Info libre 8
+D_Coche68|Info libre 9
+D_Coche69|Info libre 10
+D_Coche70|Info libre 11
+D_Coche71|Info libre 12
+D_Coche72|Info libre 13
+D_Coche73|Info libre 14
+D_Coche74|Info libre 15
+D_Coche75|Info libre 16
+D_Coche76|Info libre 17
+D_Coche77|Info libre 18
+D_Coche78|Info libre 19
+D_Coche79|Info libre 20
+D_Coche80|Info libre 21
+D_Coche81|Info libre 22
+D_Coche82|Info libre 23
+D_Coche83|Info libre 24
+D_Coche84|Info libre 25
+D_Coche85|Info libre 26
+D_Coche86|Info libre 27
+D_Coche87|Info libre 28
+D_Coche88|Info libre 29
+D_Coche89|Info libre 30
+D_Coche90|Info libre 31
+D_Coche91|Info libre 32
+D_Coche92|Info libre 33
+D_Coche93|Info libre 34
+D_Coche94|Info libre 35
+D_Coche95|Info libre 36
+D_Coche96|Info libre 37
+D_Coche97|Info libre 38
+D_Coche98|Info libre 39
+D_Coche99|Info libre 40
+D_Coche100|Info libre 41
+D_Coche101|Info libre 42
+D_Coche102|Info libre 43
+D_Coche103|Info libre 44
+D_Coche104|Info libre 45
+D_Coche105|Info libre 46
+D_Coche106|Info libre 47
+D_Coche107|Info libre 48
+D_Coche108|Info libre 49
+D_Coche109|Info libre 50
+D_Coche110|Info libre 51
+D_Coche111|Info libre 52
+D_Coche112|Info libre 53
+D_Coche113|Info libre 54
+D_Coche114|Info libre 55
+D_Coche115|Info libre 56
+D_Coche116|Info libre 57
+D_Coche117|Info libre 58
+D_Coche118|Info libre 59
+D_Coche119|Info libre 60
+D_Coche120|Info libre 61
+D_Coche121|Info libre 62
+D_Coche122|Info libre 63
+D_Coche123|Info libre 64
 D_Coche124|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche125|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche126|Projet|NA|NA|NA||NA|NA||NA|NA
