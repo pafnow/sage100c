@@ -25,22 +25,22 @@ D_Coche05|Complement
 D_Coche06|Reference
 D_Coche07|Gamme 1
 D_Coche08|Gamme 2
-D_Coche09|<i>Toujours =2</i>
-D_Coche10|<i>Toujours =2</i>
+D_Coche09|<i>(impossible, toujours =2)</i>
+D_Coche10|<i>(impossible, toujours =2)</i>
 D_Coche11|P.U. HT
 D_Coche12|P.U. TTC
 D_Coche13|P.U. Devise
-D_Coche14|<i>Toujours =2</i>
+D_Coche14|<i>(impossible, toujours =2)</i>
 D_Coche15|Ressource
 D_Coche16|Qte ressource
 D_Coche17|Quantite
 D_Coche18|Qte colisee
 D_Coche19|Conditionnement
 D_Coche20|Qte commandee
-D_Coche21|<i>Toujours =2</i>
-D_Coche22|<i>Toujours =2</i>
-D_Coche23|<i>Toujours =2</i>
-D_Coche24|<i>Toujours =2</i>
+D_Coche21|<i>(impossible, toujours =2)</i>
+D_Coche22|<i>(impossible, toujours =2)</i>
+D_Coche23|<i>(impossible, toujours =2)</i>
+D_Coche24|<i>(impossible, toujours =2)</i>
 D_Coche25|Poids net global
 D_Coche26|Poids brut global
 D_Coche27|Date livraison/fabrication
@@ -49,7 +49,7 @@ D_Coche29|P.U. net
 D_Coche30|P.U. net TTC
 D_Coche31|P.U. net Devise
 D_Coche32|Prix revient unitaire
-D_Coche33|<i>Toujours =2</i>
+D_Coche33|<i>(impossible, toujours =2)</i>
 D_Coche34|CMUP
 D_Coche35|Montant HT
 D_Coche36|Montant HT Devise
@@ -60,22 +60,22 @@ D_Coche40|Prix revient total
 D_Coche41|Montant TTC
 D_Coche42|Collaborateur
 D_Coche43|Depot
-D_Coche44|<i>Toujours =2</i>
+D_Coche44|<i>(impossible, toujours =2)</i>
 D_Coche45|Affaire
-D_Coche46|<i>Toujours =2</i>
-D_Coche47|<i>Toujours =2</i>
+D_Coche46|<i>(impossible, toujours =2)</i>
+D_Coche47|<i>(impossible, toujours =2)</i>
 D_Coche48|Base calcul marge
 D_Coche49|Marge en valeur
 D_Coche50|Marge en %
-D_Coche51|<i>Toujours =2</i>
-D_Coche52|<i>Toujours =2</i>
-D_Coche53|<i>Toujours =2</i>
-D_Coche54|<i>Toujours =2</i>
-D_Coche55|<i>Toujours =2</i>
-D_Coche56|<i>Toujours =2</i>
-D_Coche57|<i>Toujours =2</i>
-D_Coche58|<i>Toujours =2</i>
-D_Coche59|<i>Toujours =2</i>
+D_Coche51|<i>(impossible, toujours =2)</i>
+D_Coche52|<i>(impossible, toujours =2)</i>
+D_Coche53|<i>(impossible, toujours =2)</i>
+D_Coche54|<i>(impossible, toujours =2)</i>
+D_Coche55|<i>(impossible, toujours =2)</i>
+D_Coche56|<i>(impossible, toujours =2)</i>
+D_Coche57|<i>(impossible, toujours =2)</i>
+D_Coche58|<i>(impossible, toujours =2)</i>
+D_Coche59|<i>(impossible, toujours =2)</i>
 D_Coche60|Colisage
 D_Coche61|Unite de colisage
 D_Coche62|Commentaires
@@ -140,12 +140,12 @@ D_Coche120|
 D_Coche121|
 D_Coche122|
 D_Coche123|
-D_Coche124|<i>Toujours =2</i>
-D_Coche125|<i>Toujours =2</i>
-D_Coche126|<i>Toujours =2</i>
+D_Coche124|<i>(impossible, toujours =2)</i>
+D_Coche125|<i>(impossible, toujours =2)</i>
+D_Coche126|<i>(impossible, toujours =2)</i>
 D_Coche127|Code taxe 1
 D_Coche128|Code taxe 2
 D_Coche129|Code taxe 3
-D_Coche130|<i>Toujours =2</i>
+D_Coche130|<i>(impossible, toujours =2)</i>
 D_Coche131|Nº d'OF Gestion de production
-D_Coche132|<i>Toujours =2</i>
+D_Coche132|<i>(impossible, toujours =2)</i>
