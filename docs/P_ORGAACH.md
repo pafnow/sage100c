@@ -22,7 +22,7 @@ Champ|Intitule|DA|PC|BC|BL|BR|BA|FA|FAR|FAA
 -----|--------|--|--|--|--|--|--|--|---|---
 D_Coche01|Reference article
 D_Coche02|Reference fournisseur
-D_Coche03|Reference client
+D_Coche03|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche04|Designation
 D_Coche05|Complement
 D_Coche06|Reference
@@ -34,13 +34,13 @@ D_Coche11|P.U. HT
 D_Coche12|P.U. TTC
 D_Coche13|P.U. Devise
 D_Coche14|P.U. bon de commande|NA|NA|||NA|NA
-D_Coche15|Ressource
-D_Coche16|Qte ressource
+D_Coche15|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche16|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche17|Quantite
 D_Coche18|Qte colisee
 D_Coche19|Conditionnement
 D_Coche20|Qte commandee||NA|||NA|NA||NA|NA
-D_Coche21|Qte preparee|NA||NA||NA|NA||NA|NA
+D_Coche21|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche22|Qte livree|NA|NA||NA|NA|NA
 D_Coche23|Qte facturee|NA|NA|NA||||NA|NA|NA
 D_Coche24|Reste a livrer|NA|NA|NA||NA|NA
@@ -52,8 +52,8 @@ D_Coche29|P.U. net
 D_Coche30|P.U. net TTC
 D_Coche31|P.U. net Devise
 D_Coche32|Prix revient unitaire||||||NA
-D_Coche33|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
-D_Coche34|CMUP||||||NA
+D_Coche33|<i>(unknown)</i>------|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche34|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche35|Montant HT
 D_Coche36|Montant HT Devise
 D_Coche37|Taxe 1
@@ -67,11 +67,11 @@ D_Coche44|Emplacement|NA|NA||||NA|||NA
 D_Coche45|Affaire
 D_Coche46|Date peremption|NA|||||NA|||NA
 D_Coche47|Date fabrication|NA|||||NA|||NA
-D_Coche48|Base calcul marge
-D_Coche49|Marge en valeur
-D_Coche50|Marge en %
-D_Coche51|Nº client ligne|NA|NA|NA|NA|NA|NA
-D_Coche52|Nº colis|NA|NA
+D_Coche48|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche49|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche50|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche51|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche52|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche53|<i>(unknown, only for FAC)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche54|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche55|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
@@ -145,10 +145,10 @@ D_Coche122|
 D_Coche123|
 D_Coche124|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche125|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
-D_Coche126|Projet|NA|NA|NA||NA|NA||NA|NA
+D_Coche126|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
 D_Coche127|Code taxe 1
 D_Coche128|Code taxe 2
 D_Coche129|Code taxe 3
 D_Coche130|Qte devis|NA||||NA|NA||NA|NA
 D_Coche131|Nº d'OF Gestion de production
-D_Coche132|<i>(unknown)</i>|NA|NA|NA|NA|NA|NA|NA|NA|NA
+D_Coche132|<i>(unknown)</i>------|NA|NA|NA|NA|NA|NA|NA|NA|NA
