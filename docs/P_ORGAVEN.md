@@ -18,8 +18,8 @@ cbMarq|DocType|Abbreviation|DO_Type
 
 ### Signification des champs D_Coche
 NA = Not Available, value = 2 in table
-Champ|Intitule|Champ|DE|BC|PL|BL|BR|BA|FA|FAR|FAA
------|--------|-----|--|--|--|--|--|--|--|---|---
+Champ|F_DOCLIGNE|Intitule|DE|BC|PL|BL|BR|BA|FA|FAR|FAA
+-----|----------|--------|--|--|--|--|--|--|--|---|---
 D_Coche01|AR_Ref|Reference article
 D_Coche02|AF_RefFourniss|Reference fournisseur
 D_Coche03|AC_RefClient|Reference client
