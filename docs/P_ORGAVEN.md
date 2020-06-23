@@ -17,9 +17,9 @@ cbMarq|DocType|DO_Type
 11|Facture comptabilisee|7
 
 ### Signification des champs D_Coche*
-Teste sur cbMarq = 1 (Devis)
-Champ|Intitule|Devis|BC|BL|PL
------|--------|-----|--|--|--
+NA = Not Available, value = 2 in table
+Champ|Intitule|DE|BC|PL|BL|BR|BA|FA|FAR|FAA
+-----|--------|--|--|--|--|--|--|--|---|---
 D_Coche01|Reference article
 D_Coche02|Reference fournisseur
 D_Coche03|Reference client
@@ -28,22 +28,22 @@ D_Coche05|Complement
 D_Coche06|Reference
 D_Coche07|Gamme 1
 D_Coche08|Gamme 2
-D_Coche09|<i>(impossible, toujours =2)</i>|NA
-D_Coche10|<i>(impossible, toujours =2)</i>|NA
+D_Coche09|Nº serie/lot|NA|||||NA|||NA
+D_Coche10|Complement serie/lot|NA|||||NA|||NA
 D_Coche11|P.U. HT
 D_Coche12|P.U. TTC
 D_Coche13|P.U. Devise
-D_Coche14|<i>(impossible, toujours =2)</i>|NA
+D_Coche14|<i>(impossible, toujours =2)</i>|NA|NA
 D_Coche15|Ressource
 D_Coche16|Qte ressource
 D_Coche17|Quantite
 D_Coche18|Qte colisee
 D_Coche19|Conditionnement
-D_Coche20|Qte commandee
-D_Coche21|<i>(impossible, toujours =2)</i>|NA
-D_Coche22|<i>(impossible, toujours =2)</i>|NA
-D_Coche23|<i>(impossible, toujours =2)</i>|NA
-D_Coche24|<i>(impossible, toujours =2)</i>|NA
+D_Coche20|Qte commandee||NA
+D_Coche21|Qte preparee|NA||NA
+D_Coche22|<i>(impossible, toujours =2)</i>|NA|NA
+D_Coche23|<i>(impossible, toujours =2)</i>|NA|NA
+D_Coche24|<i>(impossible, toujours =2)</i>|NA|NA
 D_Coche25|Poids net global
 D_Coche26|Poids brut global
 D_Coche27|Date livraison/fabrication
@@ -149,6 +149,6 @@ D_Coche126|<i>(impossible, toujours =2)</i>|NA
 D_Coche127|Code taxe 1
 D_Coche128|Code taxe 2
 D_Coche129|Code taxe 3
-D_Coche130|<i>(impossible, toujours =2)</i>|NA
+D_Coche130|Qte devis|NA
 D_Coche131|Nº d'OF Gestion de production
 D_Coche132|<i>(impossible, toujours =2)</i>|NA
