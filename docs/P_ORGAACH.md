@@ -1,5 +1,5 @@
 ## Table P_ORGAACH
-Utilisee pour l'ordre des colonnes des documents des achats, Fichier / Parametres societe / Colonnage / Documents des achats.
+Utilisee pour l'affichage des colonnes des lignes des documents des achats, Fichier / Parametres societe / Colonnage / Documents des achats.
 
 ### Signification des lignes
 cbMarq|DocType|Abbreviation|DO_Type
