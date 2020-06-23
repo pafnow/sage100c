@@ -28,8 +28,8 @@ D_Coche05|???|Complement
 D_Coche06|???|Reference
 D_Coche07|AG_No1|Gamme 1
 D_Coche08|AG_No2|Gamme 2
-D_Coche09||Nº serie/lot|NA|||||NA|||NA
-D_Coche10||Complement serie/lot|NA|||||NA|||NA
+D_Coche09|<i>LS_NoSerie</i>|Nº serie/lot|NA|||||NA|||NA
+D_Coche10|<i>LS_Complement</i>|Complement serie/lot|NA|||||NA|||NA
 D_Coche11|DL_PrixUnitaire|P.U. HT
 D_Coche12|DL_PUTTC|P.U. TTC
 D_Coche13|DL_PUDevise|P.U. Devise
@@ -47,7 +47,7 @@ D_Coche24||Reste a livrer|NA|NA|NA||NA|NA
 D_Coche25|DL_PoidsNet|Poids net global
 D_Coche26|DL_PoidsBrut|Poids brut global
 D_Coche27|DO_DateLivr|Date livraison/fabrication
-D_Coche28|DL_Remise01REM_Valeur|Remise
+D_Coche28|<i>FNT_RemiseGlobale</i>|Remise
 D_Coche29|<i>FNT_PrixUNet</i>|P.U. net
 D_Coche30|<i>FNT_PrixUNetTTC</i>|P.U. net TTC
 D_Coche31|<i>FNT_PrixUNetDevise</i>|P.U. net Devise
@@ -62,11 +62,11 @@ D_Coche39|DL_Taxe3|Taxe 3
 D_Coche40||Prix revient total||||||NA
 D_Coche41|DL_MontantTTC|Montant TTC
 D_Coche42|CO_No|Collaborateur
-D_Coche43||Depot
+D_Coche43|DE_No|Depot
 D_Coche44||Emplacement|NA|NA||||NA|||NA
 D_Coche45||Affaire
-D_Coche46||Date peremption|NA|||||NA|||NA
-D_Coche47||Date fabrication|NA|||||NA|||NA
+D_Coche46|<i>LS_Peremption</i>|Date peremption|NA|||||NA|||NA
+D_Coche47|<i>LS_Fabrication</i>|Date fabrication|NA|||||NA|||NA
 D_Coche48||Base calcul marge
 D_Coche49||Marge en valeur
 D_Coche50||Marge en %
