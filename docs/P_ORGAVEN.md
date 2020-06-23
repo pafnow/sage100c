@@ -1,5 +1,5 @@
 ## Table P_ORGAVEN
-Utilisee pour l'ordre des colonnes des documents des ventes, Fichier / Parametres societe / Colonnage / Documents des ventes.
+Utilisee pour l'affichage des colonnes des lignes des documents des ventes, Fichier / Parametres societe / Colonnage / Documents des ventes.
 
 ### Signification des lignes
 cbMarq|DocType|Abbreviation|DO_Type
