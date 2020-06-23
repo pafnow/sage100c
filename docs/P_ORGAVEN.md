@@ -14,6 +14,7 @@ cbMarq|DocType|DO_Type
 11|Facture comptabilisee|7
 
 ### Signification des champs D_Coche*
+Teste sur cbMarq = 1 (Devis)
 Champ|Intitule
 -----|--------
 D_Coche01|
@@ -24,22 +25,22 @@ D_Coche05|
 D_Coche06|
 D_Coche07|
 D_Coche08|
-D_Coche09|
-D_Coche10|
+D_Coche09|<i>Toujours =2</i>
+D_Coche10|<i>Toujours =2</i>
 D_Coche11|
 D_Coche12|
 D_Coche13|
-D_Coche14|
+D_Coche14|<i>Toujours =2</i>
 D_Coche15|
 D_Coche16|
 D_Coche17|
 D_Coche18|
 D_Coche19|
 D_Coche20|
-D_Coche21|
-D_Coche22|
-D_Coche23|
-D_Coche24|
+D_Coche21|<i>Toujours =2</i>
+D_Coche22|<i>Toujours =2</i>
+D_Coche23|<i>Toujours =2</i>
+D_Coche24|<i>Toujours =2</i>
 D_Coche25|
 D_Coche26|
 D_Coche27|
@@ -48,7 +49,7 @@ D_Coche29|
 D_Coche30|
 D_Coche31|
 D_Coche32|
-D_Coche33|
+D_Coche33|<i>Toujours =2</i>
 D_Coche34|
 D_Coche35|
 D_Coche36|
@@ -59,22 +60,22 @@ D_Coche40|
 D_Coche41|
 D_Coche42|
 D_Coche43|
-D_Coche44|
+D_Coche44|<i>Toujours =2</i>
 D_Coche45|
-D_Coche46|
-D_Coche47|
+D_Coche46|<i>Toujours =2</i>
+D_Coche47|<i>Toujours =2</i>
 D_Coche48|
 D_Coche49|
 D_Coche50|
-D_Coche51|
-D_Coche52|
-D_Coche53|
-D_Coche54|
-D_Coche55|
-D_Coche56|
-D_Coche57|
-D_Coche58|
-D_Coche59|
+D_Coche51|<i>Toujours =2</i>
+D_Coche52|<i>Toujours =2</i>
+D_Coche53|<i>Toujours =2</i>
+D_Coche54|<i>Toujours =2</i>
+D_Coche55|<i>Toujours =2</i>
+D_Coche56|<i>Toujours =2</i>
+D_Coche57|<i>Toujours =2</i>
+D_Coche58|<i>Toujours =2</i>
+D_Coche59|<i>Toujours =2</i>
 D_Coche60|
 D_Coche61|
 D_Coche62|
@@ -139,12 +140,12 @@ D_Coche120|
 D_Coche121|
 D_Coche122|
 D_Coche123|
-D_Coche124|
-D_Coche125|
-D_Coche126|
+D_Coche124|<i>Toujours =2</i>
+D_Coche125|<i>Toujours =2</i>
+D_Coche126|<i>Toujours =2</i>
 D_Coche127|
 D_Coche128|
 D_Coche129|
-D_Coche130|
+D_Coche130|<i>Toujours =2</i>
 D_Coche131|
-D_Coche132|
+D_Coche132|<i>Toujours =2</i>
